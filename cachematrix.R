@@ -12,7 +12,7 @@
 #    a) take a supplied matrix and store it in memory
 #    b) compute an inverse and store it in cache
 #    c) clear the cache when a new matrix is supplied
-#    d) Recompte the inverse and again store it for use downstream
+#    d) Recompute the inverse and again store it for use downstream
 
 
 ## Write a short comment describing this function
